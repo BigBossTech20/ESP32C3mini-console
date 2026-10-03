@@ -18,18 +18,17 @@ Features:
 ---
 
 ### Pinout
-!!!I FORGOT TO ADD BUTTONS PINOUT
+
 | Component  | Pin  | Name | Function                          |
 |------------|------|------|-----------------------------------|
-| ESP32-C3   | GP1  | OK   | Confirm / Jump / Shoot            |
-| ESP32-C3   | GP2  | Up   | Jump (Dino) / Move forward        |
-| ESP32-C3   | GP3  | Left | Select in menu / Rotate left      |
-| ESP32-C3   | GP5  | Right| Select in menu / Rotate right     |
+| OK Button  | GP1  | OK   | Confirm / Jump / Shoot            |
+| UP Button  | GP2  | Up   | Jump (Dino) / Move forward        |
+| L Buttton  | GP3  | Left | Select in menu / Rotate left      |
+| R Button   | GP5  | Right| Select in menu / Rotate right     |
 | OLED       | GP6  | SDA  | Data cable to the screen          |
 | OLED       | GP7  | SCL  | Clock cable to the screen         |
 | OLED       | 3.3V | VCC  | Power for the screen              |
 | OLED       | GND  | GND  | Ground                            |
-
 ---
 
 ### What You Need
