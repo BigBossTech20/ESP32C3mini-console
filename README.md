@@ -57,6 +57,22 @@ Required Libaries:
 
 -math.h
 
+Paste The libaries below:
+
+https://github.com/adafruit/Adafruit-GFX-Library/blob/master/Adafruit_GFX.h
+
+https://github.com/adafruit/Adafruit_BusIO
+
+https://github.com/adafruit/Adafruit_SSD1306/blob/master/Adafruit_SSD1306.h
+
+https://github.com/arduino/ArduinoCore-avr/blob/master/libraries/Wire/src/Wire.h
+
+https://github.com/codebendercc/arduino-core-files/blob/master/v105/hardware/tools/avr/lib/avr/include/math.h
+
+https://github.com/espressif/arduino-esp32/blob/master/libraries/Preferences/src/Preferences.h
+
+To  FILE --->  Preferences --->  Additional Boards Manager URLs 
+
 
 ### How to use
 
