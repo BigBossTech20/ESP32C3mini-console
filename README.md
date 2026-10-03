@@ -47,15 +47,15 @@ Features:
 
 Required Libaries:
 
-Wire.h
+-Wire.h
 
-Adafruit_GFX.h
+-Adafruit_GFX.h
 
-Adafruit_SSD1306.h
+-Adafruit_SSD1306.h
 
-Preferences.h
+-Preferences.h
 
-math.h
+-math.h
 
 
 ### How to use
