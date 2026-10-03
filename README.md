@@ -9,7 +9,7 @@ Simple dual-game handheld console based on **ESP32-C3 Mini** + **0.96" OLED**.
 ---
 
 ### Pinout
-
+!!!I FORGOT TO ADD BUTTONS PINOUT
 | Component  | Pin  | Name | Function                          |
 |------------|------|------|-----------------------------------|
 | ESP32-C3   | GP1  | OK   | Confirm / Jump / Shoot            |
