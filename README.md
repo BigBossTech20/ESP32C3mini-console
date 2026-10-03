@@ -6,6 +6,8 @@
 
 Simple dual-game handheld console based on **ESP32-C3 Mini** + **0.96" OLED**.
 
+
+
 Features:
 
 -DOOM
@@ -17,6 +19,8 @@ Features:
 -Console saves your scores
 
 -Code Is Fully Open-Source
+
+
 
 
 
@@ -36,6 +40,9 @@ Features:
 | OLED       | GND  | GND  | Ground                            |
 ---
 
+
+
+
 ### What You Need
 
 - 4× Tactile buttons  
@@ -44,6 +51,10 @@ Features:
 - Breadboard or PCB / perfboard  
 
 ---
+
+
+
+
 
 Required Libaries:
 
@@ -56,6 +67,8 @@ Required Libaries:
 -Preferences.h
 
 -math.h
+
+
 
 Paste The libaries below:
 
@@ -72,6 +85,9 @@ https://github.com/codebendercc/arduino-core-files/blob/master/v105/hardware/too
 https://github.com/espressif/arduino-esp32/blob/master/libraries/Preferences/src/Preferences.h
 
 To  FILE --->  Preferences --->  Additional Boards Manager URLs 
+
+
+
 
 
 ### How to use
