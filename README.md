@@ -45,6 +45,14 @@ Features:
 
 ---
 
+Required Libaries:
+Wire.h
+Adafruit_GFX.h
+Adafruit_SSD1306.h
+Preferences.h
+math.h
+
+
 ### How to use
 
 1. Wire everything according to the pinout table above  
