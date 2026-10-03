@@ -6,6 +6,15 @@
 
 Simple dual-game handheld console based on **ESP32-C3 Mini** + **0.96" OLED**.
 
+Features:
+-DOOM
+-Dino game
+-Menu to select games
+-Console saves your scores
+-Code Is Fully Open-Source
+
+
+
 ---
 
 ### Pinout
