@@ -725,13 +725,12 @@ void loop() {
     }
 
     if (doomGameOver) {
-      // Najpierw rysujemy z aktualnymi wartościami
+  
       drawDoomGameOver();
       display.display();
       delay(30);
 
-      // Dopiero potem reset po naciśnięciu OK
-      if (clickOk) {
+        if (clickOk) {
         resetDoom();
         doomStarted = true;
       }
