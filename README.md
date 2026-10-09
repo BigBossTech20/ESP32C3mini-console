@@ -52,7 +52,8 @@ Features:
 - 4× Tactile buttons  
 - 1× 0.96" I2C OLED  
 - 1× ESP32-C3 Mini  
-- Breadboard or PCB / perfboard  
+- Breadboard or PCB / perfboard
+- Required Libaries
 
 ---
 
@@ -101,9 +102,12 @@ To  FILE --->  Preferences --->  Additional Boards Manager URLs
   2.Download Any version from "releases" page
 
 3. Flash the firmware  
-  
 
-Long press **OK** to return to the menu at any time.
+  
+### How To Go To MENU At Any Time
+
+
+Just Long press **OK** to return to the menu at any time.
 
 
 
