@@ -94,11 +94,14 @@ To  FILE --->  Preferences --->  Additional Boards Manager URLs
 
 
 
-### How to use
+### How to use Flash
 
 1. Wire everything according to the pinout table above  
-2. Flash the firmware  
-3. Enjoy Dino + DOOM  
+
+2.Download Any version from "releases" page
+
+3. Flash the firmware  
+  
 
 Long press **OK** to return to the menu at any time.
 
