@@ -14,7 +14,7 @@ Features:
 
 -TETRIS
 
-Ping Pong
+-PING PONG
 
 -Dino game
 
