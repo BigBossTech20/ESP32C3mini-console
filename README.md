@@ -12,6 +12,10 @@ Features:
 
 -DOOM
 
+-TETRIS
+
+Ping Pong
+
 -Dino game
 
 -Menu to select games
