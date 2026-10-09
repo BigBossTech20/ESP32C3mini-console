@@ -98,7 +98,7 @@ To  FILE --->  Preferences --->  Additional Boards Manager URLs
 
 1. Wire everything according to the pinout table above  
 
-      2.Download Any version from "releases" page
+    2.Download Any version from "releases" page
 
 3. Flash the firmware  
   
