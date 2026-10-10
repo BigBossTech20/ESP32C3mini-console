@@ -75,7 +75,7 @@ Required Libaries:
 
 
 
-Paste The libaries below:
+Paste The libaries below To  FILE --->  Preferences --->  Additional Boards Manager URLs :
 
 https://github.com/adafruit/Adafruit-GFX-Library/blob/master/Adafruit_GFX.h
 
@@ -89,7 +89,7 @@ https://github.com/codebendercc/arduino-core-files/blob/master/v105/hardware/too
 
 https://github.com/espressif/arduino-esp32/blob/master/libraries/Preferences/src/Preferences.h
 
-To  FILE --->  Preferences --->  Additional Boards Manager URLs 
+
 
 
 
