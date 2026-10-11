@@ -114,7 +114,7 @@ IF DOESNT WORK ADD REQUIRED LIBARIES MANUALLY
 
 
 
-### How to use Flash
+### How to Flash
 
 1. Wire everything according to the pinout table above  
 
