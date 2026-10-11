@@ -14,9 +14,11 @@ Features:
 
 -TETRIS
 
--PING PONG
+-PONG
 
 -Dino game
+
+-SNAKE
 
 -Menu to select games
 
