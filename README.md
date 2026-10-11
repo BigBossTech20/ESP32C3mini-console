@@ -91,6 +91,7 @@ https://github.com/codebendercc/arduino-core-files/blob/master/v105/hardware/too
 
 https://github.com/espressif/arduino-esp32/blob/master/libraries/Preferences/src/Preferences.h
 
+IF DOESNT WORK ADD REQUIRED LIBARIES MANUALLY
 
 
 
