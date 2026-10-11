@@ -121,7 +121,7 @@ IF DOESNT WORK ADD REQUIRED LIBARIES MANUALLY
 3. Flash the firmware  
 
   
-### How To Go To MENU At Any Time
+### How to go to MENU at any time
 
 
 Just Long press **OK** to return to the menu at any time.
