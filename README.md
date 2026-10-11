@@ -58,6 +58,8 @@ REQUIRED:
 - 1× ESP32-C3 Mini
   
 - Breadboard or PCB / perfboard
+
+- Required Libaries
   
 OPTIONAL:
 
@@ -65,7 +67,7 @@ OPTIONAL:
 
 -Li-Pol 4000mAh 1S 3,7V Battery
 
-- Required Libaries
+
 
 ---
 
