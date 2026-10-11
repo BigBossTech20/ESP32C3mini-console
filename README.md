@@ -16,7 +16,7 @@ Features:
 
 -PING PONG
 
--Dino
+-Dino game
 
 -SNAKE
 
