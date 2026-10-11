@@ -49,10 +49,22 @@ Features:
 
 ### What You Need
 
-- 4× Tactile buttons  
-- 1× 0.96" I2C OLED  
-- 1× ESP32-C3 Mini  
+REQUIRED:
+
+- 4× Tactile buttons
+    
+- 1× 0.96" I2C OLED
+    
+- 1× ESP32-C3 Mini
+  
 - Breadboard or PCB / perfboard
+  
+OPTIONAL:
+
+-TP4056 Charging Module
+
+-Li-Pol 4000mAh 1S 3,7V Battery
+
 - Required Libaries
 
 ---
