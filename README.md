@@ -22,7 +22,7 @@ Features:
 
 -Menu to select games
 
--Console saves your scores
+-AUTO SAVE
 
 -Code Is Fully Open-Source
 
