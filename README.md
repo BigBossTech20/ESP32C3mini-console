@@ -120,8 +120,10 @@ IF DOESNT WORK ADD REQUIRED LIBARIES MANUALLY
 
   2.Download Any version from "releases" page
 
-3. Flash the firmware  
+3. Flash the firmware
 
+
+---
   
 ### How to go to MENU at any time
 
